@@ -9,6 +9,8 @@
 
 最新教程讲解和七天课程的完整视频详见：APICloud官方出品的新书[《30天App开发从0到1》](https://github.com/apicloudcom/30-APP-0-1)
 
+> 本课程案例已有升级 APICloud 3.x 版本使用多端技术 avm.js 开发的应用，可同时编译为Android & iOS App以及微信小程序。
+> 相应介绍、源码和技术讲解请移步到[本页尾部](#avm) 。
 
 # [Day-1课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
 
@@ -427,3 +429,12 @@
 	
 	8.2 SuperWebview特点
 
+## 升级到 APICloud 3.x 的 AVM  版本 
+<span id="avm"></span>
+APICloud已经推出3.x版本,使用 avm.js 多端技术开发，可同时编译为Android & iOS App以及微信小程序。详细了解请进入仓库：[fresh-ec](https://github.com/apicloudcom/fresh-ec)
+
+` 源码地址 ` https://github.com/apicloudcom/fresh-ec
+
+了解多端技术 avm.js 请进入：[https://docs.apicloud.com/apicloud3/](https://docs.apicloud.com/apicloud3/?uzchannel=30)
+
+更多多端案例请进入: https://github.com/apicloudcom/mx-app-templates
